@@ -52,6 +52,7 @@ Tools & Libraries:
 •	SimpleRNN
 
 Steps to download and run the code:
+
 Open GitHub Repository: Navigate to the GitHub repository you want to download using your web browser.
 https://github.com/ganeshvadlamuri/LCCDE-Framework-for-Intrusion-Detection/tree/main
 
