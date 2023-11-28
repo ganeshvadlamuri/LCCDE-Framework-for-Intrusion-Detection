@@ -70,3 +70,8 @@ Open jupyter Notebook and prepare: Install the libraries mentioned in the Tools 
 
 Code Run: Run the all the cells in LCCDE_Model.ipynb
 
+Results:
+
+<img width="374" alt="image" src="https://github.com/ganeshvadlamuri/LCCDE-Framework-for-Intrusion-Detection/assets/85800035/d73e0eb8-3b07-4818-a94e-546d32327b8c">
+
+
